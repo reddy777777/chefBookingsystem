@@ -1,6 +1,6 @@
-# Chef Book Website 🍽️👨‍🍳
+# Chef Booking Website 🍽️👨‍🍳
 
-Welcome to the **Chef Book Website**! A platform designed to help food enthusiasts and home chefs book chefs for their events or private dining experiences. 🍲✨
+Welcome to the **Chef Booking Website**! A platform designed to help food enthusiasts and home chefs book chefs for their events or private dining experiences. 🍲✨
 
 ## Features 🌟
 - **User-friendly interface** for booking chefs.
